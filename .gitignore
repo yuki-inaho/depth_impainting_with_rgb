@@ -1,0 +1,6 @@
+weights/
+data/
+pyproject.toml
+test.pickle
+weights/
+.mypy_cache/
